@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+dash
+scipy
+scikit-learn
+logparser
+drain3
