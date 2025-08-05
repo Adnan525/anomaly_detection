@@ -1,0 +1,2674 @@
+{
+  "648": {
+    "template": "Received block <*> of size 67108864 from <*>",
+    "frequency": 1838
+  },
+  "5": {
+    "template": "BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>",
+    "frequency": 1827
+  },
+  "661": {
+    "template": "PacketResponder 0 for block <*> terminating",
+    "frequency": 607
+  },
+  "662": {
+    "template": "PacketResponder 1 for block <*> terminating",
+    "frequency": 606
+  },
+  "663": {
+    "template": "PacketResponder 2 for block <*> terminating",
+    "frequency": 605
+  },
+  "19": {
+    "template": "10.250.11.100:50010 Served block blk_-3544583377289625738 to <*>",
+    "frequency": 77
+  },
+  "26": {
+    "template": "10.251.197.226:50010 Served block blk_-3544583377289625738 to <*>",
+    "frequency": 71
+  },
+  "25": {
+    "template": "10.251.39.179:50010 Served block blk_-3544583377289625738 to <*>",
+    "frequency": 55
+  },
+  "29": {
+    "template": "10.250.10.6:50010 Served block blk_-1608999687919862906 to <*>",
+    "frequency": 28
+  },
+  "30": {
+    "template": "10.250.14.224:50010 Served block blk_-1608999687919862906 to <*>",
+    "frequency": 27
+  },
+  "32": {
+    "template": "10.251.74.79:50010 Served block blk_-1608999687919862906 to <*>",
+    "frequency": 27
+  },
+  "62": {
+    "template": "10.251.71.193:50010 Served block blk_-1608999687919862906 to <*>",
+    "frequency": 24
+  },
+  "257": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.70.211:50010",
+    "frequency": 20
+  },
+  "517": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.26.8:50010",
+    "frequency": 20
+  },
+  "20": {
+    "template": "10.251.111.209:50010 Served block blk_-1608999687919862906 to <*>",
+    "frequency": 19
+  },
+  "44": {
+    "template": "10.251.107.19:50010 Served block blk_-1608999687919862906 to <*>",
+    "frequency": 19
+  },
+  "111": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.215.192:50010",
+    "frequency": 19
+  },
+  "260": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.43.210:50010",
+    "frequency": 19
+  },
+  "447": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.91.229:50010",
+    "frequency": 19
+  },
+  "39": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.125.193:50010",
+    "frequency": 18
+  },
+  "40": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.203.149:50010",
+    "frequency": 18
+  },
+  "41": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.30.134:50010",
+    "frequency": 18
+  },
+  "65": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.66.63:50010",
+    "frequency": 18
+  },
+  "72": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.31.242:50010",
+    "frequency": 18
+  },
+  "105": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.43.115:50010",
+    "frequency": 18
+  },
+  "121": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.126.83:50010",
+    "frequency": 18
+  },
+  "122": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.14.196:50010",
+    "frequency": 18
+  },
+  "123": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.194.245:50010",
+    "frequency": 18
+  },
+  "124": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.67.113:50010",
+    "frequency": 18
+  },
+  "133": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.31.85:50010",
+    "frequency": 18
+  },
+  "191": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.214.67:50010",
+    "frequency": 18
+  },
+  "198": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.195.70:50010",
+    "frequency": 18
+  },
+  "284": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.214.32:50010",
+    "frequency": 18
+  },
+  "350": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.123.132:50010",
+    "frequency": 18
+  },
+  "558": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.198.196:50010",
+    "frequency": 18
+  },
+  "31": {
+    "template": "10.251.215.16:50010 Served block blk_-1608999687919862906 to <*>",
+    "frequency": 17
+  },
+  "36": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.127.191:50010",
+    "frequency": 17
+  },
+  "58": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.42.9:50010",
+    "frequency": 17
+  },
+  "63": {
+    "template": "10.251.71.240:50010 Served block blk_-1608999687919862906 to <*>",
+    "frequency": 17
+  },
+  "107": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.19.16:50010",
+    "frequency": 17
+  },
+  "140": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.30.179:50010",
+    "frequency": 17
+  },
+  "202": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.202.181:50010",
+    "frequency": 17
+  },
+  "207": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.14.224:50010",
+    "frequency": 17
+  },
+  "275": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.14.143:50010",
+    "frequency": 17
+  },
+  "289": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.73.188:50010",
+    "frequency": 17
+  },
+  "361": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.38.53:50010",
+    "frequency": 17
+  },
+  "367": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.38.197:50010",
+    "frequency": 17
+  },
+  "417": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.5.161:50010",
+    "frequency": 17
+  },
+  "418": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.7.96:50010",
+    "frequency": 17
+  },
+  "519": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.91.15:50010",
+    "frequency": 17
+  },
+  "42": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.31.5:50010",
+    "frequency": 16
+  },
+  "45": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.215.16:50010",
+    "frequency": 16
+  },
+  "57": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.127.243:50010",
+    "frequency": 16
+  },
+  "60": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.111.209:50010",
+    "frequency": 16
+  },
+  "61": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.17.225:50010",
+    "frequency": 16
+  },
+  "69": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.66.192:50010",
+    "frequency": 16
+  },
+  "73": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.42.84:50010",
+    "frequency": 16
+  },
+  "74": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.214.225:50010",
+    "frequency": 16
+  },
+  "134": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.17.177:50010",
+    "frequency": 16
+  },
+  "182": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.73.220:50010",
+    "frequency": 16
+  },
+  "183": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.42.207:50010",
+    "frequency": 16
+  },
+  "185": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.39.209:50010",
+    "frequency": 16
+  },
+  "186": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.43.21:50010",
+    "frequency": 16
+  },
+  "194": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.194.147:50010",
+    "frequency": 16
+  },
+  "199": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.111.130:50010",
+    "frequency": 16
+  },
+  "200": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.30.101:50010",
+    "frequency": 16
+  },
+  "203": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.110.196:50010",
+    "frequency": 16
+  },
+  "206": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.214.175:50010",
+    "frequency": 16
+  },
+  "258": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.90.81:50010",
+    "frequency": 16
+  },
+  "259": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.42.246:50010",
+    "frequency": 16
+  },
+  "261": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.123.20:50010",
+    "frequency": 16
+  },
+  "263": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.122.38:50010",
+    "frequency": 16
+  },
+  "265": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.203.4:50010",
+    "frequency": 16
+  },
+  "267": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.194.213:50010",
+    "frequency": 16
+  },
+  "281": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.122.79:50010",
+    "frequency": 16
+  },
+  "283": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.11.100:50010",
+    "frequency": 16
+  },
+  "288": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.71.146:50010",
+    "frequency": 16
+  },
+  "343": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.106.37:50010",
+    "frequency": 16
+  },
+  "346": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.90.134:50010",
+    "frequency": 16
+  },
+  "347": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.193.175:50010",
+    "frequency": 16
+  },
+  "411": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.70.5:50010",
+    "frequency": 16
+  },
+  "419": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.70.112:50010",
+    "frequency": 16
+  },
+  "585": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.15.67:50010",
+    "frequency": 16
+  },
+  "38": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.126.227:50010",
+    "frequency": 15
+  },
+  "66": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.65.203:50010",
+    "frequency": 15
+  },
+  "68": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.71.240:50010",
+    "frequency": 15
+  },
+  "108": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.125.237:50010",
+    "frequency": 15
+  },
+  "117": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.201.204:50010",
+    "frequency": 15
+  },
+  "125": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.195.33:50010",
+    "frequency": 15
+  },
+  "126": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.74.192:50010",
+    "frequency": 15
+  },
+  "127": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.67.211:50010",
+    "frequency": 15
+  },
+  "128": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.203.246:50010",
+    "frequency": 15
+  },
+  "129": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.31.180:50010",
+    "frequency": 15
+  },
+  "130": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.65.237:50010",
+    "frequency": 15
+  },
+  "132": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.10.6:50010",
+    "frequency": 15
+  },
+  "184": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.42.191:50010",
+    "frequency": 15
+  },
+  "192": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.66.102:50010",
+    "frequency": 15
+  },
+  "196": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.126.255:50010",
+    "frequency": 15
+  },
+  "197": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.125.174:50010",
+    "frequency": 15
+  },
+  "204": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.39.144:50010",
+    "frequency": 15
+  },
+  "205": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.91.159:50010",
+    "frequency": 15
+  },
+  "256": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.43.192:50010",
+    "frequency": 15
+  },
+  "264": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.123.1:50010",
+    "frequency": 15
+  },
+  "269": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.193.224:50010",
+    "frequency": 15
+  },
+  "270": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.15.240:50010",
+    "frequency": 15
+  },
+  "271": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.107.50:50010",
+    "frequency": 15
+  },
+  "274": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.39.179:50010",
+    "frequency": 15
+  },
+  "276": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.110.160:50010",
+    "frequency": 15
+  },
+  "348": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.107.196:50010",
+    "frequency": 15
+  },
+  "352": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.110.68:50010",
+    "frequency": 15
+  },
+  "353": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.123.99:50010",
+    "frequency": 15
+  },
+  "354": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.107.98:50010",
+    "frequency": 15
+  },
+  "359": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.14.38:50010",
+    "frequency": 15
+  },
+  "364": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.5.237:50010",
+    "frequency": 15
+  },
+  "365": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.39.160:50010",
+    "frequency": 15
+  },
+  "413": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.110.8:50010",
+    "frequency": 15
+  },
+  "414": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.90.239:50010",
+    "frequency": 15
+  },
+  "422": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.27.63:50010",
+    "frequency": 15
+  },
+  "442": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.194.102:50010",
+    "frequency": 15
+  },
+  "444": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.203.80:50010",
+    "frequency": 15
+  },
+  "445": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.71.68:50010",
+    "frequency": 15
+  },
+  "446": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.13.240:50010",
+    "frequency": 15
+  },
+  "448": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.13.188:50010",
+    "frequency": 15
+  },
+  "449": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.39.242:50010",
+    "frequency": 15
+  },
+  "450": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.199.86:50010",
+    "frequency": 15
+  },
+  "451": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.39.192:50010",
+    "frequency": 15
+  },
+  "495": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.6.191:50010",
+    "frequency": 15
+  },
+  "521": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.106.50:50010",
+    "frequency": 15
+  },
+  "37": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.126.5:50010",
+    "frequency": 14
+  },
+  "43": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.18.114:50010",
+    "frequency": 14
+  },
+  "71": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.19.227:50010",
+    "frequency": 14
+  },
+  "75": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.71.16:50010",
+    "frequency": 14
+  },
+  "109": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.67.225:50010",
+    "frequency": 14
+  },
+  "110": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.89.155:50010",
+    "frequency": 14
+  },
+  "115": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.66.3:50010",
+    "frequency": 14
+  },
+  "116": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.203.166:50010",
+    "frequency": 14
+  },
+  "120": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.42.16:50010",
+    "frequency": 14
+  },
+  "131": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.107.19:50010",
+    "frequency": 14
+  },
+  "137": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.74.227:50010",
+    "frequency": 14
+  },
+  "138": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.67.4:50010",
+    "frequency": 14
+  },
+  "181": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.197.226:50010",
+    "frequency": 14
+  },
+  "189": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.215.50:50010",
+    "frequency": 14
+  },
+  "193": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.203.129:50010",
+    "frequency": 14
+  },
+  "208": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.10.223:50010",
+    "frequency": 14
+  },
+  "266": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.194.129:50010",
+    "frequency": 14
+  },
+  "272": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.214.130:50010",
+    "frequency": 14
+  },
+  "277": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.75.143:50010",
+    "frequency": 14
+  },
+  "282": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.215.70:50010",
+    "frequency": 14
+  },
+  "287": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.109.209:50010",
+    "frequency": 14
+  },
+  "291": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.109.236:50010",
+    "frequency": 14
+  },
+  "342": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.122.65:50010",
+    "frequency": 14
+  },
+  "345": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.7.244:50010",
+    "frequency": 14
+  },
+  "360": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.6.214:50010",
+    "frequency": 14
+  },
+  "362": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.90.64:50010",
+    "frequency": 14
+  },
+  "368": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.38.214:50010",
+    "frequency": 14
+  },
+  "412": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.6.4:50010",
+    "frequency": 14
+  },
+  "420": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.198.33:50010",
+    "frequency": 14
+  },
+  "421": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.15.101:50010",
+    "frequency": 14
+  },
+  "423": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.106.214:50010",
+    "frequency": 14
+  },
+  "452": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.35.1:50010",
+    "frequency": 14
+  },
+  "496": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.199.150:50010",
+    "frequency": 14
+  },
+  "522": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.91.84:50010",
+    "frequency": 14
+  },
+  "556": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.199.19:50010",
+    "frequency": 14
+  },
+  "557": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.197.161:50010",
+    "frequency": 14
+  },
+  "59": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.75.79:50010",
+    "frequency": 13
+  },
+  "64": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.30.85:50010",
+    "frequency": 13
+  },
+  "112": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.10.100:50010",
+    "frequency": 13
+  },
+  "114": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.106.10:50010",
+    "frequency": 13
+  },
+  "119": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.199.225:50010",
+    "frequency": 13
+  },
+  "135": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.31.160:50010",
+    "frequency": 13
+  },
+  "136": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.75.163:50010",
+    "frequency": 13
+  },
+  "187": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.43.147:50010",
+    "frequency": 13
+  },
+  "190": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.74.79:50010",
+    "frequency": 13
+  },
+  "195": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.214.18:50010",
+    "frequency": 13
+  },
+  "201": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.75.228:50010",
+    "frequency": 13
+  },
+  "268": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.74.134:50010",
+    "frequency": 13
+  },
+  "273": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.123.195:50010",
+    "frequency": 13
+  },
+  "280": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.107.242:50010",
+    "frequency": 13
+  },
+  "285": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.111.80:50010",
+    "frequency": 13
+  },
+  "290": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.107.227:50010",
+    "frequency": 13
+  },
+  "292": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.214.112:50010",
+    "frequency": 13
+  },
+  "344": {
+    "template": "10.251.90.64:50010 Served block blk_-1608999687919862906 to <*>",
+    "frequency": 13
+  },
+  "349": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.11.85:50010",
+    "frequency": 13
+  },
+  "351": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.9.207:50010",
+    "frequency": 13
+  },
+  "355": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.11.194:50010",
+    "frequency": 13
+  },
+  "356": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.123.33:50010",
+    "frequency": 13
+  },
+  "357": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.111.228:50010",
+    "frequency": 13
+  },
+  "363": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.7.230:50010",
+    "frequency": 13
+  },
+  "366": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.7.146:50010",
+    "frequency": 13
+  },
+  "410": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.26.131:50010",
+    "frequency": 13
+  },
+  "416": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.10.213:50010",
+    "frequency": 13
+  },
+  "443": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.25.237:50010",
+    "frequency": 13
+  },
+  "455": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.10.176:50010",
+    "frequency": 13
+  },
+  "456": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.105.189:50010",
+    "frequency": 13
+  },
+  "498": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.10.144:50010",
+    "frequency": 13
+  },
+  "499": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.71.193:50010",
+    "frequency": 13
+  },
+  "559": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.203.179:50010",
+    "frequency": 13
+  },
+  "586": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.127.47:50010",
+    "frequency": 13
+  },
+  "33": {
+    "template": "10.251.31.5:50010 Served block blk_-1608999687919862906 to <*>",
+    "frequency": 12
+  },
+  "113": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.111.37:50010",
+    "frequency": 12
+  },
+  "188": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.39.64:50010",
+    "frequency": 12
+  },
+  "278": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.26.177:50010",
+    "frequency": 12
+  },
+  "279": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.202.209:50010",
+    "frequency": 12
+  },
+  "286": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.91.32:50010",
+    "frequency": 12
+  },
+  "358": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.195.52:50010",
+    "frequency": 12
+  },
+  "415": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.199.245:50010",
+    "frequency": 12
+  },
+  "453": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.6.223:50010",
+    "frequency": 12
+  },
+  "454": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.37.240:50010",
+    "frequency": 12
+  },
+  "457": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.11.53:50010",
+    "frequency": 12
+  },
+  "458": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.199.159:50010",
+    "frequency": 12
+  },
+  "493": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.7.32:50010",
+    "frequency": 12
+  },
+  "497": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.71.97:50010",
+    "frequency": 12
+  },
+  "518": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.70.37:50010",
+    "frequency": 12
+  },
+  "520": {
+    "template": "Receiving block <*> src: <*> dest: /10.250.15.198:50010",
+    "frequency": 12
+  },
+  "555": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.121.224:50010",
+    "frequency": 12
+  },
+  "642": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.75.49:50010",
+    "frequency": 12
+  },
+  "660": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.30.6:50010",
+    "frequency": 12
+  },
+  "494": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.126.22:50010",
+    "frequency": 11
+  },
+  "1": {
+    "template": "Receiving block blk_-1608999687919862906 src: <*> dest: <*>",
+    "frequency": 10
+  },
+  "600": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.29.239:50010",
+    "frequency": 10
+  },
+  "664": {
+    "template": "Receiving block <*> src: <*> dest: /10.251.202.134:50010",
+    "frequency": 9
+  },
+  "8": {
+    "template": "Received block blk_-1608999687919862906 src: <*> dest: <*> of size 91178",
+    "frequency": 7
+  },
+  "90": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000005_0/part-00005. <*>",
+    "frequency": 4
+  },
+  "104": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000034_0/part-00034. <*>",
+    "frequency": 4
+  },
+  "209": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000025_0/part-00025. <*>",
+    "frequency": 4
+  },
+  "225": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000033_0/part-00033. <*>",
+    "frequency": 4
+  },
+  "239": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000064_0/part-00064. <*>",
+    "frequency": 4
+  },
+  "305": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000101_0/part-00101. <*>",
+    "frequency": 4
+  },
+  "375": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000236_0/part-00236. <*>",
+    "frequency": 4
+  },
+  "397": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000023_0/part-00023. <*>",
+    "frequency": 4
+  },
+  "532": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000358_0/part-00358. <*>",
+    "frequency": 4
+  },
+  "3": {
+    "template": "PacketResponder <*> for block blk_-1608999687919862906 terminating",
+    "frequency": 3
+  },
+  "4": {
+    "template": "Received block blk_-1608999687919862906 of size 91178 from <*>",
+    "frequency": 3
+  },
+  "6": {
+    "template": "Receiving block blk_7503483334202473044 src: <*> dest: <*>",
+    "frequency": 3
+  },
+  "9": {
+    "template": "Receiving block blk_-3544583377289625738 src: <*> dest: <*>",
+    "frequency": 3
+  },
+  "10": {
+    "template": "PacketResponder <*> for block blk_7503483334202473044 terminating",
+    "frequency": 3
+  },
+  "11": {
+    "template": "Received block blk_7503483334202473044 of size 233217 from <*>",
+    "frequency": 3
+  },
+  "13": {
+    "template": "<*> Starting thread to transfer block blk_-1608999687919862906 to <*> <*>",
+    "frequency": 3
+  },
+  "14": {
+    "template": "BLOCK* ask <*> to replicate blk_-1608999687919862906 to datanode(s) <*> <*>",
+    "frequency": 3
+  },
+  "16": {
+    "template": "PacketResponder <*> for block blk_-3544583377289625738 terminating",
+    "frequency": 3
+  },
+  "17": {
+    "template": "Received block blk_-3544583377289625738 of size 11971 from <*>",
+    "frequency": 3
+  },
+  "18": {
+    "template": "Receiving block blk_-9073992586687739851 src: <*> dest: <*>",
+    "frequency": 3
+  },
+  "22": {
+    "template": "PacketResponder <*> for block blk_-9073992586687739851 terminating",
+    "frequency": 3
+  },
+  "23": {
+    "template": "Received block blk_-9073992586687739851 of size 11977 from <*>",
+    "frequency": 3
+  },
+  "34": {
+    "template": "Receiving block blk_7854771516489510256 src: <*> dest: <*>",
+    "frequency": 3
+  },
+  "48": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000081_0/part-00081. <*>",
+    "frequency": 3
+  },
+  "49": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000121_0/part-00121. <*>",
+    "frequency": 3
+  },
+  "51": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000098_0/part-00098. <*>",
+    "frequency": 3
+  },
+  "52": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000010_0/part-00010. <*>",
+    "frequency": 3
+  },
+  "53": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000084_0/part-00084. <*>",
+    "frequency": 3
+  },
+  "54": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000086_0/part-00086. <*>",
+    "frequency": 3
+  },
+  "56": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000042_0/part-00042. <*>",
+    "frequency": 3
+  },
+  "67": {
+    "template": "Receiving block blk_1998424538687454859 src: <*> dest: <*>",
+    "frequency": 3
+  },
+  "70": {
+    "template": "Receiving block blk_-7742258871275669707 src: <*> dest: <*>",
+    "frequency": 3
+  },
+  "76": {
+    "template": "Receiving block blk_8609819439677503690 src: <*> dest: <*>",
+    "frequency": 3
+  },
+  "78": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000026_0/part-00026. <*>",
+    "frequency": 3
+  },
+  "80": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000009_0/part-00009. <*>",
+    "frequency": 3
+  },
+  "83": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000131_0/part-00131. <*>",
+    "frequency": 3
+  },
+  "84": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000048_0/part-00048. <*>",
+    "frequency": 3
+  },
+  "85": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000119_0/part-00119. <*>",
+    "frequency": 3
+  },
+  "87": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000058_0/part-00058. <*>",
+    "frequency": 3
+  },
+  "88": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000060_0/part-00060. <*>",
+    "frequency": 3
+  },
+  "91": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000021_0/part-00021. <*>",
+    "frequency": 3
+  },
+  "92": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000022_0/part-00022. <*>",
+    "frequency": 3
+  },
+  "93": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000031_0/part-00031. <*>",
+    "frequency": 3
+  },
+  "95": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000127_0/part-00127. <*>",
+    "frequency": 3
+  },
+  "97": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000006_0/part-00006. <*>",
+    "frequency": 3
+  },
+  "99": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000011_0/part-00011. <*>",
+    "frequency": 3
+  },
+  "100": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000117_0/part-00117. <*>",
+    "frequency": 3
+  },
+  "102": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000126_0/part-00126. <*>",
+    "frequency": 3
+  },
+  "103": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000015_0/part-00015. <*>",
+    "frequency": 3
+  },
+  "106": {
+    "template": "Receiving block blk_-774246298521956028 src: <*> dest: <*>",
+    "frequency": 3
+  },
+  "118": {
+    "template": "Receiving block blk_3098154771341398925 src: <*> dest: <*>",
+    "frequency": 3
+  },
+  "139": {
+    "template": "Receiving block blk_5479015932651254774 src: <*> dest: <*>",
+    "frequency": 3
+  },
+  "144": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000218_0/part-00218. <*>",
+    "frequency": 3
+  },
+  "145": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000029_0/part-00029. <*>",
+    "frequency": 3
+  },
+  "146": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000061_0/part-00061. <*>",
+    "frequency": 3
+  },
+  "147": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000129_0/part-00129. <*>",
+    "frequency": 3
+  },
+  "149": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000244_0/part-00244. <*>",
+    "frequency": 3
+  },
+  "150": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000014_0/part-00014. <*>",
+    "frequency": 3
+  },
+  "151": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000032_0/part-00032. <*>",
+    "frequency": 3
+  },
+  "152": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000040_0/part-00040. <*>",
+    "frequency": 3
+  },
+  "153": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000130_0/part-00130. <*>",
+    "frequency": 3
+  },
+  "154": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000216_0/part-00216. <*>",
+    "frequency": 3
+  },
+  "156": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000223_0/part-00223. <*>",
+    "frequency": 3
+  },
+  "158": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000035_0/part-00035. <*>",
+    "frequency": 3
+  },
+  "159": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000142_0/part-00142. <*>",
+    "frequency": 3
+  },
+  "162": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000044_0/part-00044. <*>",
+    "frequency": 3
+  },
+  "163": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000137_0/part-00137. <*>",
+    "frequency": 3
+  },
+  "164": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000139_0/part-00139. <*>",
+    "frequency": 3
+  },
+  "165": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000050_0/part-00050. <*>",
+    "frequency": 3
+  },
+  "166": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000140_0/part-00140. <*>",
+    "frequency": 3
+  },
+  "168": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000008_0/part-00008. <*>",
+    "frequency": 3
+  },
+  "169": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000030_0/part-00030. <*>",
+    "frequency": 3
+  },
+  "171": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000045_0/part-00045. <*>",
+    "frequency": 3
+  },
+  "172": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000132_0/part-00132. <*>",
+    "frequency": 3
+  },
+  "173": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000135_0/part-00135. <*>",
+    "frequency": 3
+  },
+  "174": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000136_0/part-00136. <*>",
+    "frequency": 3
+  },
+  "175": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000233_0/part-00233. <*>",
+    "frequency": 3
+  },
+  "176": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000134_0/part-00134. <*>",
+    "frequency": 3
+  },
+  "177": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000017_0/part-00017. <*>",
+    "frequency": 3
+  },
+  "179": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000125_0/part-00125. <*>",
+    "frequency": 3
+  },
+  "180": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000128_0/part-00128. <*>",
+    "frequency": 3
+  },
+  "210": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000222_0/part-00222. <*>",
+    "frequency": 3
+  },
+  "212": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000018_0/part-00018. <*>",
+    "frequency": 3
+  },
+  "214": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000020_0/part-00020. <*>",
+    "frequency": 3
+  },
+  "217": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000056_0/part-00056. <*>",
+    "frequency": 3
+  },
+  "218": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000145_0/part-00145. <*>",
+    "frequency": 3
+  },
+  "220": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000065_0/part-00065. <*>",
+    "frequency": 3
+  },
+  "224": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000019_0/part-00019. <*>",
+    "frequency": 3
+  },
+  "226": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000063_0/part-00063. <*>",
+    "frequency": 3
+  },
+  "227": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000210_0/part-00210. <*>",
+    "frequency": 3
+  },
+  "230": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000265_0/part-00265. <*>",
+    "frequency": 3
+  },
+  "233": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000059_0/part-00059. <*>",
+    "frequency": 3
+  },
+  "235": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000228_0/part-00228. <*>",
+    "frequency": 3
+  },
+  "236": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000282_0/part-00282. <*>",
+    "frequency": 3
+  },
+  "237": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000027_0/part-00027. <*>",
+    "frequency": 3
+  },
+  "238": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000039_0/part-00039. <*>",
+    "frequency": 3
+  },
+  "240": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000247_0/part-00247. <*>",
+    "frequency": 3
+  },
+  "241": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000248_0/part-00248. <*>",
+    "frequency": 3
+  },
+  "245": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000043_0/part-00043. <*>",
+    "frequency": 3
+  },
+  "246": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000069_0/part-00069. <*>",
+    "frequency": 3
+  },
+  "247": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000230_0/part-00230. <*>",
+    "frequency": 3
+  },
+  "249": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000049_0/part-00049. <*>",
+    "frequency": 3
+  },
+  "250": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000094_0/part-00094. <*>",
+    "frequency": 3
+  },
+  "262": {
+    "template": "Receiving block blk_202536106610432362 src: <*> dest: <*>",
+    "frequency": 3
+  },
+  "293": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000057_0/part-00057. <*>",
+    "frequency": 3
+  },
+  "294": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000087_0/part-00087. <*>",
+    "frequency": 3
+  },
+  "295": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000092_0/part-00092. <*>",
+    "frequency": 3
+  },
+  "296": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000205_0/part-00205. <*>",
+    "frequency": 3
+  },
+  "297": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000246_0/part-00246. <*>",
+    "frequency": 3
+  },
+  "298": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000271_0/part-00271. <*>",
+    "frequency": 3
+  },
+  "299": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000276_0/part-00276. <*>",
+    "frequency": 3
+  },
+  "300": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000277_0/part-00277. <*>",
+    "frequency": 3
+  },
+  "301": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000281_0/part-00281. <*>",
+    "frequency": 3
+  },
+  "304": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000047_0/part-00047. <*>",
+    "frequency": 3
+  },
+  "306": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000179_0/part-00179. <*>",
+    "frequency": 3
+  },
+  "310": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000272_0/part-00272. <*>",
+    "frequency": 3
+  },
+  "312": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000294_0/part-00294. <*>",
+    "frequency": 3
+  },
+  "313": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000090_0/part-00090. <*>",
+    "frequency": 3
+  },
+  "314": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000078_0/part-00078. <*>",
+    "frequency": 3
+  },
+  "316": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000288_0/part-00288. <*>",
+    "frequency": 3
+  },
+  "317": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000072_0/part-00072. <*>",
+    "frequency": 3
+  },
+  "320": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000256_0/part-00256. <*>",
+    "frequency": 3
+  },
+  "322": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000278_0/part-00278. <*>",
+    "frequency": 3
+  },
+  "323": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000279_0/part-00279. <*>",
+    "frequency": 3
+  },
+  "324": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000041_0/part-00041. <*>",
+    "frequency": 3
+  },
+  "328": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000266_0/part-00266. <*>",
+    "frequency": 3
+  },
+  "331": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000051_0/part-00051. <*>",
+    "frequency": 3
+  },
+  "332": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000085_0/part-00085. <*>",
+    "frequency": 3
+  },
+  "334": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000283_0/part-00283. <*>",
+    "frequency": 3
+  },
+  "337": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000053_0/part-00053. <*>",
+    "frequency": 3
+  },
+  "338": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000103_0/part-00103. <*>",
+    "frequency": 3
+  },
+  "339": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000261_0/part-00261. <*>",
+    "frequency": 3
+  },
+  "341": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000312_0/part-00312. <*>",
+    "frequency": 3
+  },
+  "369": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000068_0/part-00068. <*>",
+    "frequency": 3
+  },
+  "371": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000293_0/part-00293. <*>",
+    "frequency": 3
+  },
+  "372": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000311_0/part-00311. <*>",
+    "frequency": 3
+  },
+  "373": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000100_0/part-00100. <*>",
+    "frequency": 3
+  },
+  "376": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000300_0/part-00300. <*>",
+    "frequency": 3
+  },
+  "378": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000184_0/part-00184. <*>",
+    "frequency": 3
+  },
+  "379": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000290_0/part-00290. <*>",
+    "frequency": 3
+  },
+  "380": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000295_0/part-00295. <*>",
+    "frequency": 3
+  },
+  "381": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000297_0/part-00297. <*>",
+    "frequency": 3
+  },
+  "382": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000310_0/part-00310. <*>",
+    "frequency": 3
+  },
+  "386": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000307_0/part-00307. <*>",
+    "frequency": 3
+  },
+  "387": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000315_0/part-00315. <*>",
+    "frequency": 3
+  },
+  "389": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000105_0/part-00105. <*>",
+    "frequency": 3
+  },
+  "391": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000115_0/part-00115. <*>",
+    "frequency": 3
+  },
+  "393": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000286_0/part-00286. <*>",
+    "frequency": 3
+  },
+  "396": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000302_0/part-00302. <*>",
+    "frequency": 3
+  },
+  "398": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000151_0/part-00151. <*>",
+    "frequency": 3
+  },
+  "399": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000220_0/part-00220. <*>",
+    "frequency": 3
+  },
+  "400": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000292_0/part-00292. <*>",
+    "frequency": 3
+  },
+  "403": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000097_0/part-00097. <*>",
+    "frequency": 3
+  },
+  "406": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000320_0/part-00320. <*>",
+    "frequency": 3
+  },
+  "407": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000080_0/part-00080. <*>",
+    "frequency": 3
+  },
+  "409": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000314_0/part-00314. <*>",
+    "frequency": 3
+  },
+  "425": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000291_0/part-00291. <*>",
+    "frequency": 3
+  },
+  "426": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000303_0/part-00303. <*>",
+    "frequency": 3
+  },
+  "428": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000154_0/part-00154. <*>",
+    "frequency": 3
+  },
+  "429": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000191_0/part-00191. <*>",
+    "frequency": 3
+  },
+  "434": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000331_0/part-00331. <*>",
+    "frequency": 3
+  },
+  "436": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000306_0/part-00306. <*>",
+    "frequency": 3
+  },
+  "437": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000062_0/part-00062. <*>",
+    "frequency": 3
+  },
+  "439": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000318_0/part-00318. <*>",
+    "frequency": 3
+  },
+  "441": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000332_0/part-00332. <*>",
+    "frequency": 3
+  },
+  "459": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000104_0/part-00104. <*>",
+    "frequency": 3
+  },
+  "461": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000147_0/part-00147. <*>",
+    "frequency": 3
+  },
+  "462": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000175_0/part-00175. <*>",
+    "frequency": 3
+  },
+  "465": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000325_0/part-00325. <*>",
+    "frequency": 3
+  },
+  "467": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000336_0/part-00336. <*>",
+    "frequency": 3
+  },
+  "468": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000190_0/part-00190. <*>",
+    "frequency": 3
+  },
+  "474": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000156_0/part-00156. <*>",
+    "frequency": 3
+  },
+  "475": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000309_0/part-00309. <*>",
+    "frequency": 3
+  },
+  "477": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000327_0/part-00327. <*>",
+    "frequency": 3
+  },
+  "479": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000157_0/part-00157. <*>",
+    "frequency": 3
+  },
+  "481": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000319_0/part-00319. <*>",
+    "frequency": 3
+  },
+  "482": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000321_0/part-00321. <*>",
+    "frequency": 3
+  },
+  "500": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000155_0/part-00155. <*>",
+    "frequency": 3
+  },
+  "503": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000163_0/part-00163. <*>",
+    "frequency": 3
+  },
+  "504": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000169_0/part-00169. <*>",
+    "frequency": 3
+  },
+  "507": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000338_0/part-00338. <*>",
+    "frequency": 3
+  },
+  "508": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000351_0/part-00351. <*>",
+    "frequency": 3
+  },
+  "511": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000323_0/part-00323. <*>",
+    "frequency": 3
+  },
+  "513": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000353_0/part-00353. <*>",
+    "frequency": 3
+  },
+  "514": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000365_0/part-00365. <*>",
+    "frequency": 3
+  },
+  "515": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000185_0/part-00185. <*>",
+    "frequency": 3
+  },
+  "527": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000113_0/part-00113. <*>",
+    "frequency": 3
+  },
+  "529": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000195_0/part-00195. <*>",
+    "frequency": 3
+  },
+  "530": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000193_0/part-00193. <*>",
+    "frequency": 3
+  },
+  "540": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000348_0/part-00348. <*>",
+    "frequency": 3
+  },
+  "541": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000371_0/part-00371. <*>",
+    "frequency": 3
+  },
+  "545": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000356_0/part-00356. <*>",
+    "frequency": 3
+  },
+  "550": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000350_0/part-00350. <*>",
+    "frequency": 3
+  },
+  "552": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000095_0/part-00095. <*>",
+    "frequency": 3
+  },
+  "562": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000196_0/part-00196. <*>",
+    "frequency": 3
+  },
+  "563": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000357_0/part-00357. <*>",
+    "frequency": 3
+  },
+  "564": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000359_0/part-00359. <*>",
+    "frequency": 3
+  },
+  "566": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000384_0/part-00384. <*>",
+    "frequency": 3
+  },
+  "567": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000253_0/part-00253. <*>",
+    "frequency": 3
+  },
+  "568": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000362_0/part-00362. <*>",
+    "frequency": 3
+  },
+  "570": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000198_0/part-00198. <*>",
+    "frequency": 3
+  },
+  "576": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000352_0/part-00352. <*>",
+    "frequency": 3
+  },
+  "578": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000159_0/part-00159. <*>",
+    "frequency": 3
+  },
+  "580": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000204_0/part-00204. <*>",
+    "frequency": 3
+  },
+  "581": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000369_0/part-00369. <*>",
+    "frequency": 3
+  },
+  "583": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000377_0/part-00377. <*>",
+    "frequency": 3
+  },
+  "584": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000368_0/part-00368. <*>",
+    "frequency": 3
+  },
+  "587": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000197_0/part-00197. <*>",
+    "frequency": 3
+  },
+  "589": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000381_0/part-00381. <*>",
+    "frequency": 3
+  },
+  "597": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000181_0/part-00181. <*>",
+    "frequency": 3
+  },
+  "601": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000201_0/part-00201. <*>",
+    "frequency": 3
+  },
+  "603": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000386_0/part-00386. <*>",
+    "frequency": 3
+  },
+  "605": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000207_0/part-00207. <*>",
+    "frequency": 3
+  },
+  "607": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000194_0/part-00194. <*>",
+    "frequency": 3
+  },
+  "609": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000203_0/part-00203. <*>",
+    "frequency": 3
+  },
+  "612": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000339_0/part-00339. <*>",
+    "frequency": 3
+  },
+  "614": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000235_0/part-00235. <*>",
+    "frequency": 3
+  },
+  "632": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000396_0/part-00396. <*>",
+    "frequency": 3
+  },
+  "636": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000252_0/part-00252. <*>",
+    "frequency": 3
+  },
+  "647": {
+    "template": "PacketResponder <*> for block blk_3175731177970777720 terminating",
+    "frequency": 3
+  },
+  "652": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000402_0/part-00402. <*>",
+    "frequency": 3
+  },
+  "653": {
+    "template": "PacketResponder <*> for block blk_-4770972463483766707 terminating",
+    "frequency": 3
+  },
+  "655": {
+    "template": "PacketResponder <*> for block blk_-8186438745381579117 terminating",
+    "frequency": 3
+  },
+  "656": {
+    "template": "PacketResponder <*> for block blk_9125494407446525156 terminating",
+    "frequency": 3
+  },
+  "657": {
+    "template": "PacketResponder <*> for block blk_-8281945757273050140 terminating",
+    "frequency": 3
+  },
+  "658": {
+    "template": "PacketResponder <*> for block blk_-6535155942125829332 terminating",
+    "frequency": 3
+  },
+  "659": {
+    "template": "PacketResponder <*> for block blk_3098154771341398925 terminating",
+    "frequency": 3
+  },
+  "35": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000079_0/part-00079. <*>",
+    "frequency": 2
+  },
+  "47": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000111_0/part-00111. <*>",
+    "frequency": 2
+  },
+  "50": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000007_0/part-00007. <*>",
+    "frequency": 2
+  },
+  "55": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000002_0/part-00002. <*>",
+    "frequency": 2
+  },
+  "79": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000112_0/part-00112. <*>",
+    "frequency": 2
+  },
+  "81": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000141_0/part-00141. <*>",
+    "frequency": 2
+  },
+  "82": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000124_0/part-00124. <*>",
+    "frequency": 2
+  },
+  "86": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000024_0/part-00024. <*>",
+    "frequency": 2
+  },
+  "89": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000122_0/part-00122. <*>",
+    "frequency": 2
+  },
+  "96": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000143_0/part-00143. <*>",
+    "frequency": 2
+  },
+  "98": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000123_0/part-00123. <*>",
+    "frequency": 2
+  },
+  "101": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000118_0/part-00118. <*>",
+    "frequency": 2
+  },
+  "142": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000054_0/part-00054. <*>",
+    "frequency": 2
+  },
+  "143": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000133_0/part-00133. <*>",
+    "frequency": 2
+  },
+  "148": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000138_0/part-00138. <*>",
+    "frequency": 2
+  },
+  "155": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000221_0/part-00221. <*>",
+    "frequency": 2
+  },
+  "157": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000229_0/part-00229. <*>",
+    "frequency": 2
+  },
+  "161": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000038_0/part-00038. <*>",
+    "frequency": 2
+  },
+  "167": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000144_0/part-00144. <*>",
+    "frequency": 2
+  },
+  "170": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000037_0/part-00037. <*>",
+    "frequency": 2
+  },
+  "178": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000114_0/part-00114. <*>",
+    "frequency": 2
+  },
+  "211": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000016_0/part-00016. <*>",
+    "frequency": 2
+  },
+  "213": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000000_0/part-00000. <*>",
+    "frequency": 2
+  },
+  "215": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000046_0/part-00046. <*>",
+    "frequency": 2
+  },
+  "216": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000055_0/part-00055. <*>",
+    "frequency": 2
+  },
+  "219": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000280_0/part-00280. <*>",
+    "frequency": 2
+  },
+  "221": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000070_0/part-00070. <*>",
+    "frequency": 2
+  },
+  "222": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000219_0/part-00219. <*>",
+    "frequency": 2
+  },
+  "223": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000004_0/part-00004. <*>",
+    "frequency": 2
+  },
+  "228": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000217_0/part-00217. <*>",
+    "frequency": 2
+  },
+  "229": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000232_0/part-00232. <*>",
+    "frequency": 2
+  },
+  "231": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000231_0/part-00231. <*>",
+    "frequency": 2
+  },
+  "232": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000001_0/part-00001. <*>",
+    "frequency": 2
+  },
+  "234": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000146_0/part-00146. <*>",
+    "frequency": 2
+  },
+  "242": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000249_0/part-00249. <*>",
+    "frequency": 2
+  },
+  "243": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000262_0/part-00262. <*>",
+    "frequency": 2
+  },
+  "244": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000013_0/part-00013. <*>",
+    "frequency": 2
+  },
+  "248": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000270_0/part-00270. <*>",
+    "frequency": 2
+  },
+  "251": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000211_0/part-00211. <*>",
+    "frequency": 2
+  },
+  "253": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000225_0/part-00225. <*>",
+    "frequency": 2
+  },
+  "254": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000245_0/part-00245. <*>",
+    "frequency": 2
+  },
+  "255": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000267_0/part-00267. <*>",
+    "frequency": 2
+  },
+  "302": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000287_0/part-00287. <*>",
+    "frequency": 2
+  },
+  "303": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000299_0/part-00299. <*>",
+    "frequency": 2
+  },
+  "307": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000269_0/part-00269. <*>",
+    "frequency": 2
+  },
+  "308": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000083_0/part-00083. <*>",
+    "frequency": 2
+  },
+  "309": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000110_0/part-00110. <*>",
+    "frequency": 2
+  },
+  "311": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000274_0/part-00274. <*>",
+    "frequency": 2
+  },
+  "315": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000082_0/part-00082. <*>",
+    "frequency": 2
+  },
+  "318": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000089_0/part-00089. <*>",
+    "frequency": 2
+  },
+  "319": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000093_0/part-00093. <*>",
+    "frequency": 2
+  },
+  "321": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000028_0/part-00028. <*>",
+    "frequency": 2
+  },
+  "325": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000074_0/part-00074. <*>",
+    "frequency": 2
+  },
+  "326": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000075_0/part-00075. <*>",
+    "frequency": 2
+  },
+  "327": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000167_0/part-00167. <*>",
+    "frequency": 2
+  },
+  "329": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000275_0/part-00275. <*>",
+    "frequency": 2
+  },
+  "330": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000301_0/part-00301. <*>",
+    "frequency": 2
+  },
+  "333": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000268_0/part-00268. <*>",
+    "frequency": 2
+  },
+  "335": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000304_0/part-00304. <*>",
+    "frequency": 2
+  },
+  "336": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000036_0/part-00036. <*>",
+    "frequency": 2
+  },
+  "340": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000284_0/part-00284. <*>",
+    "frequency": 2
+  },
+  "370": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000073_0/part-00073. <*>",
+    "frequency": 2
+  },
+  "374": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000106_0/part-00106. <*>",
+    "frequency": 2
+  },
+  "377": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000088_0/part-00088. <*>",
+    "frequency": 2
+  },
+  "383": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000066_0/part-00066. <*>",
+    "frequency": 2
+  },
+  "384": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000076_0/part-00076. <*>",
+    "frequency": 2
+  },
+  "385": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000102_0/part-00102. <*>",
+    "frequency": 2
+  },
+  "388": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000067_0/part-00067. <*>",
+    "frequency": 2
+  },
+  "390": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000107_0/part-00107. <*>",
+    "frequency": 2
+  },
+  "392": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000273_0/part-00273. <*>",
+    "frequency": 2
+  },
+  "394": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000289_0/part-00289. <*>",
+    "frequency": 2
+  },
+  "395": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000298_0/part-00298. <*>",
+    "frequency": 2
+  },
+  "401": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000003_0/part-00003. <*>",
+    "frequency": 2
+  },
+  "402": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000071_0/part-00071. <*>",
+    "frequency": 2
+  },
+  "404": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000308_0/part-00308. <*>",
+    "frequency": 2
+  },
+  "405": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000285_0/part-00285. <*>",
+    "frequency": 2
+  },
+  "408": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000116_0/part-00116. <*>",
+    "frequency": 2
+  },
+  "424": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000077_0/part-00077. <*>",
+    "frequency": 2
+  },
+  "427": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000149_0/part-00149. <*>",
+    "frequency": 2
+  },
+  "430": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000259_0/part-00259. <*>",
+    "frequency": 2
+  },
+  "431": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000168_0/part-00168. <*>",
+    "frequency": 2
+  },
+  "432": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000173_0/part-00173. <*>",
+    "frequency": 2
+  },
+  "433": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000317_0/part-00317. <*>",
+    "frequency": 2
+  },
+  "435": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000162_0/part-00162. <*>",
+    "frequency": 2
+  },
+  "438": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000099_0/part-00099. <*>",
+    "frequency": 2
+  },
+  "440": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000305_0/part-00305. <*>",
+    "frequency": 2
+  },
+  "460": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000108_0/part-00108. <*>",
+    "frequency": 2
+  },
+  "463": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000342_0/part-00342. <*>",
+    "frequency": 2
+  },
+  "464": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000316_0/part-00316. <*>",
+    "frequency": 2
+  },
+  "466": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000335_0/part-00335. <*>",
+    "frequency": 2
+  },
+  "469": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000340_0/part-00340. <*>",
+    "frequency": 2
+  },
+  "470": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000150_0/part-00150. <*>",
+    "frequency": 2
+  },
+  "471": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000161_0/part-00161. <*>",
+    "frequency": 2
+  },
+  "472": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000186_0/part-00186. <*>",
+    "frequency": 2
+  },
+  "473": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000322_0/part-00322. <*>",
+    "frequency": 2
+  },
+  "476": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000313_0/part-00313. <*>",
+    "frequency": 2
+  },
+  "478": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000329_0/part-00329. <*>",
+    "frequency": 2
+  },
+  "480": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000296_0/part-00296. <*>",
+    "frequency": 2
+  },
+  "483": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000333_0/part-00333. <*>",
+    "frequency": 2
+  },
+  "484": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000337_0/part-00337. <*>",
+    "frequency": 2
+  },
+  "485": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000096_0/part-00096. <*>",
+    "frequency": 2
+  },
+  "486": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000326_0/part-00326. <*>",
+    "frequency": 2
+  },
+  "487": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000212_0/part-00212. <*>",
+    "frequency": 2
+  },
+  "488": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000052_0/part-00052. <*>",
+    "frequency": 2
+  },
+  "489": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000165_0/part-00165. <*>",
+    "frequency": 2
+  },
+  "490": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000324_0/part-00324. <*>",
+    "frequency": 2
+  },
+  "491": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000328_0/part-00328. <*>",
+    "frequency": 2
+  },
+  "492": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000334_0/part-00334. <*>",
+    "frequency": 2
+  },
+  "501": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000109_0/part-00109. <*>",
+    "frequency": 2
+  },
+  "502": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000177_0/part-00177. <*>",
+    "frequency": 2
+  },
+  "505": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000209_0/part-00209. <*>",
+    "frequency": 2
+  },
+  "506": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000345_0/part-00345. <*>",
+    "frequency": 2
+  },
+  "509": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000170_0/part-00170. <*>",
+    "frequency": 2
+  },
+  "510": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000171_0/part-00171. <*>",
+    "frequency": 2
+  },
+  "512": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000343_0/part-00343. <*>",
+    "frequency": 2
+  },
+  "516": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000330_0/part-00330. <*>",
+    "frequency": 2
+  },
+  "523": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000158_0/part-00158. <*>",
+    "frequency": 2
+  },
+  "524": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000187_0/part-00187. <*>",
+    "frequency": 2
+  },
+  "525": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000188_0/part-00188. <*>",
+    "frequency": 2
+  },
+  "526": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000206_0/part-00206. <*>",
+    "frequency": 2
+  },
+  "528": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000176_0/part-00176. <*>",
+    "frequency": 2
+  },
+  "531": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000341_0/part-00341. <*>",
+    "frequency": 2
+  },
+  "533": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000374_0/part-00374. <*>",
+    "frequency": 2
+  },
+  "534": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000148_0/part-00148. <*>",
+    "frequency": 2
+  },
+  "535": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000366_0/part-00366. <*>",
+    "frequency": 2
+  },
+  "536": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000237_0/part-00237. <*>",
+    "frequency": 2
+  },
+  "537": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000354_0/part-00354. <*>",
+    "frequency": 2
+  },
+  "538": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000192_0/part-00192. <*>",
+    "frequency": 2
+  },
+  "539": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000208_0/part-00208. <*>",
+    "frequency": 2
+  },
+  "542": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000347_0/part-00347. <*>",
+    "frequency": 2
+  },
+  "543": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000360_0/part-00360. <*>",
+    "frequency": 2
+  },
+  "544": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000213_0/part-00213. <*>",
+    "frequency": 2
+  },
+  "546": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000364_0/part-00364. <*>",
+    "frequency": 2
+  },
+  "547": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000189_0/part-00189. <*>",
+    "frequency": 2
+  },
+  "549": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000346_0/part-00346. <*>",
+    "frequency": 2
+  },
+  "551": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000372_0/part-00372. <*>",
+    "frequency": 2
+  },
+  "553": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000361_0/part-00361. <*>",
+    "frequency": 2
+  },
+  "554": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000363_0/part-00363. <*>",
+    "frequency": 2
+  },
+  "560": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000178_0/part-00178. <*>",
+    "frequency": 2
+  },
+  "561": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000183_0/part-00183. <*>",
+    "frequency": 2
+  },
+  "565": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000367_0/part-00367. <*>",
+    "frequency": 2
+  },
+  "569": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000166_0/part-00166. <*>",
+    "frequency": 2
+  },
+  "572": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000180_0/part-00180. <*>",
+    "frequency": 2
+  },
+  "573": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000370_0/part-00370. <*>",
+    "frequency": 2
+  },
+  "574": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000375_0/part-00375. <*>",
+    "frequency": 2
+  },
+  "575": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000091_0/part-00091. <*>",
+    "frequency": 2
+  },
+  "577": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000355_0/part-00355. <*>",
+    "frequency": 2
+  },
+  "579": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000215_0/part-00215. <*>",
+    "frequency": 2
+  },
+  "582": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000152_0/part-00152. <*>",
+    "frequency": 2
+  },
+  "588": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000257_0/part-00257. <*>",
+    "frequency": 2
+  },
+  "590": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000238_0/part-00238. <*>",
+    "frequency": 2
+  },
+  "591": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000258_0/part-00258. <*>",
+    "frequency": 2
+  },
+  "592": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000376_0/part-00376. <*>",
+    "frequency": 2
+  },
+  "593": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000172_0/part-00172. <*>",
+    "frequency": 2
+  },
+  "594": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000174_0/part-00174. <*>",
+    "frequency": 2
+  },
+  "595": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000182_0/part-00182. <*>",
+    "frequency": 2
+  },
+  "596": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000378_0/part-00378. <*>",
+    "frequency": 2
+  },
+  "598": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000251_0/part-00251. <*>",
+    "frequency": 2
+  },
+  "599": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000383_0/part-00383. <*>",
+    "frequency": 2
+  },
+  "602": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000379_0/part-00379. <*>",
+    "frequency": 2
+  },
+  "604": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000202_0/part-00202. <*>",
+    "frequency": 2
+  },
+  "608": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000380_0/part-00380. <*>",
+    "frequency": 2
+  },
+  "610": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000373_0/part-00373. <*>",
+    "frequency": 2
+  },
+  "611": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000385_0/part-00385. <*>",
+    "frequency": 2
+  },
+  "613": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000387_0/part-00387. <*>",
+    "frequency": 2
+  },
+  "615": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000239_0/part-00239. <*>",
+    "frequency": 2
+  },
+  "616": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000214_0/part-00214. <*>",
+    "frequency": 2
+  },
+  "617": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000153_0/part-00153. <*>",
+    "frequency": 2
+  },
+  "618": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000389_0/part-00389. <*>",
+    "frequency": 2
+  },
+  "619": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000242_0/part-00242. <*>",
+    "frequency": 2
+  },
+  "620": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000388_0/part-00388. <*>",
+    "frequency": 2
+  },
+  "621": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000164_0/part-00164. <*>",
+    "frequency": 2
+  },
+  "622": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000264_0/part-00264. <*>",
+    "frequency": 2
+  },
+  "623": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000392_0/part-00392. <*>",
+    "frequency": 2
+  },
+  "624": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000254_0/part-00254. <*>",
+    "frequency": 2
+  },
+  "625": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000160_0/part-00160. <*>",
+    "frequency": 2
+  },
+  "626": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000394_0/part-00394. <*>",
+    "frequency": 2
+  },
+  "627": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000200_0/part-00200. <*>",
+    "frequency": 2
+  },
+  "628": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000260_0/part-00260. <*>",
+    "frequency": 2
+  },
+  "629": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000395_0/part-00395. <*>",
+    "frequency": 2
+  },
+  "630": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000263_0/part-00263. <*>",
+    "frequency": 2
+  },
+  "631": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000391_0/part-00391. <*>",
+    "frequency": 2
+  },
+  "633": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000199_0/part-00199. <*>",
+    "frequency": 2
+  },
+  "634": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000255_0/part-00255. <*>",
+    "frequency": 2
+  },
+  "635": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000243_0/part-00243. <*>",
+    "frequency": 2
+  },
+  "637": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000398_0/part-00398. <*>",
+    "frequency": 2
+  },
+  "638": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000234_0/part-00234. <*>",
+    "frequency": 2
+  },
+  "639": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000397_0/part-00397. <*>",
+    "frequency": 2
+  },
+  "640": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000393_0/part-00393. <*>",
+    "frequency": 2
+  },
+  "641": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000226_0/part-00226. <*>",
+    "frequency": 2
+  },
+  "643": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000390_0/part-00390. <*>",
+    "frequency": 2
+  },
+  "644": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000399_0/part-00399. <*>",
+    "frequency": 2
+  },
+  "645": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000400_0/part-00400. <*>",
+    "frequency": 2
+  },
+  "646": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000240_0/part-00240. <*>",
+    "frequency": 2
+  },
+  "649": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000401_0/part-00401. <*>",
+    "frequency": 2
+  },
+  "651": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000241_0/part-00241. <*>",
+    "frequency": 2
+  },
+  "654": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000227_0/part-00227. <*>",
+    "frequency": 2
+  },
+  "2": {
+    "template": "BLOCK* NameSystem.allocateBlock: /mnt/hadoop/mapred/system/job_200811092030_0001/job.jar. blk_-1608999687919862906",
+    "frequency": 1
+  },
+  "7": {
+    "template": "BLOCK* NameSystem.allocateBlock: /mnt/hadoop/mapred/system/job_200811092030_0001/job.split. blk_7503483334202473044",
+    "frequency": 1
+  },
+  "12": {
+    "template": "10.250.14.224:50010:Transmitted block blk_-1608999687919862906 to /10.251.215.16:50010",
+    "frequency": 1
+  },
+  "15": {
+    "template": "BLOCK* NameSystem.allocateBlock: /mnt/hadoop/mapred/system/job_200811092030_0001/job.xml. blk_-3544583377289625738",
+    "frequency": 1
+  },
+  "21": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_logs/history/ip-10-250-19-102.ec2.internal_1226291400491_job_200811092030_0001_conf.xml. blk_-9073992586687739851",
+    "frequency": 1
+  },
+  "24": {
+    "template": "10.251.215.16:50010 Served block blk_7503483334202473044 to /10.250.19.102",
+    "frequency": 1
+  },
+  "27": {
+    "template": "10.251.215.16:50010:Transmitted block blk_-1608999687919862906 to /10.251.74.79:50010",
+    "frequency": 1
+  },
+  "28": {
+    "template": "10.251.107.19:50010:Transmitted block blk_-1608999687919862906 to /10.251.31.5:50010",
+    "frequency": 1
+  },
+  "46": {
+    "template": "BLOCK* ask 10.251.31.5:50010 to replicate blk_-1608999687919862906 to datanode(s) 10.251.90.64:50010",
+    "frequency": 1
+  },
+  "77": {
+    "template": "10.251.31.5:50010 Starting thread to transfer block blk_-1608999687919862906 to 10.251.90.64:50010",
+    "frequency": 1
+  },
+  "94": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000120_0/part-00120. blk_-1942808544656255720",
+    "frequency": 1
+  },
+  "141": {
+    "template": "10.251.31.5:50010:Transmitted block blk_-1608999687919862906 to /10.251.90.64:50010",
+    "frequency": 1
+  },
+  "160": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000012_0/part-00012. blk_-5649479540791129974",
+    "frequency": 1
+  },
+  "252": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000224_0/part-00224. blk_1613550655988246573",
+    "frequency": 1
+  },
+  "548": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000344_0/part-00344. blk_8518644188978882261",
+    "frequency": 1
+  },
+  "571": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000349_0/part-00349. blk_-3616976684127351139",
+    "frequency": 1
+  },
+  "606": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000382_0/part-00382. blk_7340860866556817481",
+    "frequency": 1
+  },
+  "650": {
+    "template": "Verification succeeded for blk_-9073992586687739851",
+    "frequency": 1
+  },
+  "665": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000250_0/part-00250. blk_847418696961406650",
+    "frequency": 1
+  },
+  "666": {
+    "template": "writeBlock blk_-3102267849859399193 received exception java.net.SocketTimeoutException",
+    "frequency": 1
+  },
+  "667": {
+    "template": "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000403_0/part-00403. blk_-2687169637976743681",
+    "frequency": 1
+  },
+  "668": {
+    "template": "PacketResponder blk_-3102267849859399193 2 Exception java.io.EOFException",
+    "frequency": 1
+  }
+}
