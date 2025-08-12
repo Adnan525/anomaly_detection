@@ -8,3 +8,4 @@ scipy
 scikit-learn
 logparser
 drain3
+pyyaml
