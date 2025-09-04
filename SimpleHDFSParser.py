@@ -1,3 +1,8 @@
+# Usage:
+#   parse_logs - Parse HDFS logs and extract templates using Drain3
+#   show_top_templates - Display the most frequent templates
+#   save_results - Save parsed results to JSON files for easy inspection
+# --------------------------------------------------------------------------
 import pandas as pd
 import os
 import json
@@ -110,10 +115,10 @@ class SimpleHDFSParser:
         os.makedirs(output_dir, exist_ok=True)
         
         # Save parsed logs as JSONL (one JSON object per line)
-        logs_file = os.path.join(output_dir, "parsed_logs.jsonl")
+        logs_file = os.path.join(output_dir, "parsed_logs.json")
         with open(logs_file, 'w') as f:
-            for log_entry in self.parsed_logs:
-                f.write(json.dumps(log_entry) + '\n')
+            # for log_entry in self.parsed_logs:
+            json.dump(self.parsed_logs, f, indent=2)
         print(f"Saved parsed logs to {logs_file}")
         
         # Save templates with frequency counts as JSON
@@ -217,7 +222,7 @@ def main():
     parser.save_results()
     
     print("\nParsing complete! Check the 'results' folder for:")
-    print("  - parsed_logs.jsonl: All parsed log entries (one JSON object per line)")
+    print("  - parsed_logs.json: All parsed log entries")
     print("  - templates.json: Unique templates with frequencies") 
     print("  - sessions.json: Logs grouped by session ID")
     print("  - summary.json: Overview statistics")
